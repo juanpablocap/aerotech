@@ -1,0 +1,44 @@
+h1{
+    color: green;
+    text-align: center;
+}
+.box{
+    background-color: chocolate;
+    width: 80%;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 80%;
+    height: 90%;
+    margin: auto;
+    background-color: cyan;
+    border-style: dotted;
+    border-right-color: red;
+}
+
+h2{
+    color: black
+}
+body {
+    background-color: white;
+    text-align: center;
+}
+h3 {
+    color: black;
+    text-align: justify; align-content: center;
+    line-height: 1.7em; /* interlineado */
+    text-shadow: crimson;
+}
+.lista {
+    margin: auto;
+    background-color: white;
+    text-align: left;
+    border:3px #ccc solid;
+    border-style: dotted;
+    width: 70%;
+}
+.form {
+    width: 500px;
+    padding: 20%;
+}
